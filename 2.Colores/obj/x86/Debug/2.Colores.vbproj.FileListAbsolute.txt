@@ -1,0 +1,41 @@
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\2.Colores\bin\Debug\2.Colores.exe
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\2.Colores\bin\Debug\2.Colores.pdb
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\2.Colores\bin\Debug\2.Colores.xml
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\2.Colores\obj\x86\Debug\_2.Colores.Form1.resources
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\2.Colores\obj\x86\Debug\_2.Colores.Resources.resources
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\2.Colores\obj\x86\Debug\2.Colores.vbproj.GenerateResource.Cache
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\2.Colores\obj\x86\Debug\2.Colores.exe
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\2.Colores\obj\x86\Debug\2.Colores.xml
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\2.Colores\obj\x86\Debug\2.Colores.pdb
+E:\Ferchabbita\Escritorio\Ejercicios EDI\2.Colores\2.Colores\obj\x86\Debug\2.Colores.exe
+E:\Ferchabbita\Escritorio\Ejercicios EDI\2.Colores\2.Colores\obj\x86\Debug\2.Colores.xml
+E:\Ferchabbita\Escritorio\Ejercicios EDI\2.Colores\2.Colores\obj\x86\Debug\2.Colores.pdb
+F:\Ejercicios EDI\2.Colores\2.Colores\obj\x86\Debug\2.Colores.exe
+F:\Ejercicios EDI\2.Colores\2.Colores\obj\x86\Debug\2.Colores.xml
+F:\Ejercicios EDI\2.Colores\2.Colores\obj\x86\Debug\2.Colores.pdb
+F:\Ejercicios EDI\2.Colores\2.Colores\bin\Debug\2.Colores.exe
+F:\Ejercicios EDI\2.Colores\2.Colores\bin\Debug\2.Colores.pdb
+F:\Ejercicios EDI\2.Colores\2.Colores\bin\Debug\2.Colores.xml
+F:\Ejercicios EDI\2.Colores\2.Colores\obj\x86\Debug\_2.Colores.Form1.resources
+F:\Ejercicios EDI\2.Colores\2.Colores\obj\x86\Debug\_2.Colores.Resources.resources
+F:\Ejercicios EDI\2.Colores\2.Colores\obj\x86\Debug\2.Colores.vbproj.GenerateResource.Cache
+E:\Ejercicios EDI\2.Colores\2.Colores\obj\x86\Debug\2.Colores.exe
+E:\Ejercicios EDI\2.Colores\2.Colores\obj\x86\Debug\2.Colores.xml
+E:\Ejercicios EDI\2.Colores\2.Colores\obj\x86\Debug\2.Colores.pdb
+E:\Ejercicios EDI\2.Colores\2.Colores\bin\Debug\2.Colores.exe
+E:\Ejercicios EDI\2.Colores\2.Colores\bin\Debug\2.Colores.pdb
+E:\Ejercicios EDI\2.Colores\2.Colores\bin\Debug\2.Colores.xml
+E:\Ejercicios EDI\2.Colores\2.Colores\obj\x86\Debug\_2.Colores.Form1.resources
+E:\Ejercicios EDI\2.Colores\2.Colores\obj\x86\Debug\_2.Colores.Resources.resources
+E:\Ejercicios EDI\2.Colores\2.Colores\obj\x86\Debug\2.Colores.vbproj.GenerateResource.Cache
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\2.Colores\2.Colores\bin\Debug\2.Colores.exe
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\2.Colores\2.Colores\bin\Debug\2.Colores.pdb
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\2.Colores\2.Colores\bin\Debug\2.Colores.xml
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\2.Colores\2.Colores\obj\x86\Debug\2.Colores.vbprojAssemblyReference.cache
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\2.Colores\2.Colores\obj\x86\Debug\_2.Colores.Form1.resources
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\2.Colores\2.Colores\obj\x86\Debug\_2.Colores.Resources.resources
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\2.Colores\2.Colores\obj\x86\Debug\2.Colores.vbproj.GenerateResource.cache
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\2.Colores\2.Colores\obj\x86\Debug\2.Colores.vbproj.CoreCompileInputs.cache
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\2.Colores\2.Colores\obj\x86\Debug\2.Colores.exe
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\2.Colores\2.Colores\obj\x86\Debug\2.Colores.xml
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\2.Colores\2.Colores\obj\x86\Debug\2.Colores.pdb
